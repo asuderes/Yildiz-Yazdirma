@@ -6,7 +6,7 @@ namespace Yildiz_Yazdirma
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Asude Handan");
         }
     }
 }
